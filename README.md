@@ -1,2 +1,2 @@
 # blind_assist_app
-An android app to assist blinds in their journey. It contains object detection, geolocation fetures.
+An android app to assist blinds in their journey. It contains object detection, geolocation features.
